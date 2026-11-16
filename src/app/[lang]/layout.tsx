@@ -21,7 +21,7 @@ const jetbrainsMono = localFont({
 });
 
 export const viewport: Viewport = {
-  themeColor: "#0b1426",
+  themeColor: "#0c0c16",
   colorScheme: "dark",
 };
 
